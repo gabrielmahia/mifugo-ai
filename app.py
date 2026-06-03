@@ -1,0 +1,13 @@
+import streamlit as st
+st.set_page_config(page_title="Mifugo AI", page_icon="🐄", layout="centered")
+st.markdown("# 🐄 Mifugo AI")
+st.markdown("**Kenya Livestock Advisory for Pastoralists**")
+st.info("🚧 **Inaendelea kuundwa** — Hii ni toleo la awali. Vipengele vya kwanza vitakuja hivi karibuni.")
+st.markdown("### Vipengele vinavyokuja:")
+    st.caption("- Gundua magonjwa ya mifugo")
+    st.caption("- Habari za dawa za mifugo")
+    st.caption("- Bei za soko (ng'ombe, mbuzi, ngamia)")
+    st.caption("- Malisho na lishe")
+    st.caption("- Daktari wa karibu")
+st.markdown("---")
+st.caption("⭐ Star repo hii ili kufuatilia maendeleo | gabrielmahia.ai")
