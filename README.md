@@ -4,7 +4,7 @@
 
 Kenya has 47 million livestock animals generating KES 180B annually, yet pastoralists — who own 75% of this livestock — have almost no access to veterinary services or market information in Swahili. Mifugo AI brings livestock disease diagnosis, breed selection, feed management, and market prices to Kenyan herders.
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY-NC-ND%204.0-lightgrey.svg)]()
+[![License: MIT License](https://img.shields.io/badge/License-CC%20BY-NC-ND%204.0-lightgrey.svg)]()
 
 ## The Problem
 
