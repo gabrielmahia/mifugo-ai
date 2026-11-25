@@ -67,4 +67,4 @@ with tab4:
         st.markdown(f'<div class="mv-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🐄 Mifugo AI v1.0 | Dharura: Piga daktari wa mifugo | Maelezo ya DVS Kenya | CC BY-NC-ND 4.0")
+st.caption("🐄 Mifugo AI v1.0 | Dharura: Piga daktari wa mifugo | Maelezo ya DVS Kenya | MIT")
